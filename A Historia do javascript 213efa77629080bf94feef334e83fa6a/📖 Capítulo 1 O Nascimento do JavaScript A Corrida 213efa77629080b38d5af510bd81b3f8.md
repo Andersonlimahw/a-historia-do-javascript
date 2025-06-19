@@ -1,14 +1,10 @@
 # 📖 Capítulo 1: O Nascimento do JavaScript: A Corrida dos Navegadores
 
----
-
-# **📚 Estrutura inicial do ebook:**
-
 # **“A História do JavaScript e TypeScript: Da Netscape ao Futuro da Web”**
 
 ---
 
-## **✅ Estrutura Proposta de Capítulos**
+## **✅ Estrutura de capítulos**
 
 ### **Parte 1 – A História do JavaScript**
 

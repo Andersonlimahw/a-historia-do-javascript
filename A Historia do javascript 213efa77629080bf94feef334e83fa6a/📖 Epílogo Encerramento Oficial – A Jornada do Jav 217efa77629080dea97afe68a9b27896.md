@@ -34,16 +34,29 @@ Ou se você apenas tem curiosidade pela história das tecnologias que movem a in
 
 O JavaScript (e agora o TypeScript) provaram uma lição essencial:
 
-> “
-> 
-> 
-> **Uma linguagem feita em 10 dias pode, com uma comunidade apaixonada, dominar o mundo.**
-> 
+>**Uma linguagem feita em 10 dias pode, com uma comunidade apaixonada, dominar o mundo.**
 
----
+___
+## Sobre o autor
 
-## Abraços,
+<img src="https://avatars.githubusercontent.com/u/15092575?v=4&size=200" alt="Anderson Lima" style="border-radius: 50%;">
+
+
+
+Olá! Sou Anderson Lima, programador com mais de 10 anos de experiência, formado em Análise e Desenvolvimento de Sistemas, com pós-graduação em Arquitetura de Software e Soluções, além de formação técnica em Informática e Administração.
+
+Atuo em uma empresa multinacional de grande porte, construindo soluções robustas em backend, frontend e mobile. Ao longo da minha carreira, desenvolvi projetos em:
+	•	Plataformas Web usando JavaScript, TypeScript e frameworks modernos;
+	•	Sistemas corporativos de larga escala;
+	•	Integrações e arquiteturas complexas;
+	•	Automação, testes e qualidade de código.
+
+Este eBook foi escrito para compartilhar meus conhecimentos na prática, com foco em história, arquitetura e experiência real de mercado. Aqui você encontrará:
+	•	Narrativas técnicas profissionais;
+	•	Insights sobre ferramentas e frameworks do ecossistema;
+	•	Aprendizado estratégico para se destacar em sua carreira.
+
+Conecte-se comigo e acompanhe projetos no meu site:
 
 Anderson Lima
-
-lemon.dev.br
+[lemon.dev.br](https://lemon.dev.br)

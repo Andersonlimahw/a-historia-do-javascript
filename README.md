@@ -1,13 +1,3 @@
-# A Historia do javascript
-
-Fanfic Type: Single Story
-Publish Date: June 19, 2025
-Schedule: On the 30th of every month (2 Parts) 
-Select: Fanfiction
-Status: In progress
-Type: E-book
-Work: Javascript
-
 # **A História do JavaScript e TypeScript: Da Netscape ao Futuro da Web**
 
 ## Índice dos Capítulos
@@ -81,3 +71,28 @@ Work: Javascript
 **Epílogo**
 
 [**📖 Epílogo: Encerramento Oficial – A Jornada do JavaScript e TypeScript**](A%20Historia%20do%20javascript%20213efa77629080bf94feef334e83fa6a/%F0%9F%93%96%20Epi%CC%81logo%20Encerramento%20Oficial%20%E2%80%93%20A%20Jornada%20do%20Jav%20217efa77629080dea97afe68a9b27896.md)
+
+
+## Sobre o autor
+
+<img src="https://avatars.githubusercontent.com/u/15092575?v=4&size=200" alt="Anderson Lima" style="border-radius: 50%;">
+
+
+
+Olá! Sou Anderson Lima, programador com mais de 10 anos de experiência, formado em Análise e Desenvolvimento de Sistemas, com pós-graduação em Arquitetura de Software e Soluções, além de formação técnica em Informática e Administração.
+
+Atuo em uma empresa multinacional de grande porte, construindo soluções robustas em backend, frontend e mobile. Ao longo da minha carreira, desenvolvi projetos em:
+	•	Plataformas Web usando JavaScript, TypeScript e frameworks modernos;
+	•	Sistemas corporativos de larga escala;
+	•	Integrações e arquiteturas complexas;
+	•	Automação, testes e qualidade de código.
+
+Este eBook foi escrito para compartilhar meus conhecimentos na prática, com foco em história, arquitetura e experiência real de mercado. Aqui você encontrará:
+	•	Narrativas técnicas profissionais;
+	•	Insights sobre ferramentas e frameworks do ecossistema;
+	•	Aprendizado estratégico para se destacar em sua carreira.
+
+Conecte-se comigo e acompanhe projetos no meu site:
+
+Anderson Lima
+[lemon.dev.br](https://lemon.dev.br)
